@@ -30,7 +30,7 @@
 7. 🗳️ Debe tener un método deleteProduct, el cual debe recibir un id y debe eliminar el producto que tenga ese id en el archivo.
 
 ## Formato del entregable
-💀 Archivo de javascript con el nombre ProductManager.js
+🚨 Archivo de javascript con el nombre ProductManager.js
 
 ## Proceso de testing de este entregable 
 🧪 DESAFÍO ENTREGABLE - PROCESO DE TESTING

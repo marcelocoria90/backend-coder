@@ -1,11 +1,1 @@
-[
-	{
-		"title": "Producto actualizado desde metodo updateProductById",
-		"description": "Esto es un producto de prueba",
-		"price": 500,
-		"thumbnail": "Sin Imagen",
-		"code": "abc123",
-		"stock": 25,
-		"id": 1
-	}
-]
+[]

@@ -135,7 +135,7 @@ console.log('-------------------------------------------------------------------
 
 console.log('+ 🧪 Se llamará al método “deleteProduct”, se evaluará que realmente se elimine el producto o \n' +
     'que arroje un error en caso de no existir.')
-await productManager.deleteProduct(5)
+await productManager.deleteProduct(1)
 products = await productManager.getProducts()
 console.log(products)
 console.log('--------------------------------------------------------------------------------------------------')
