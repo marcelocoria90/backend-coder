@@ -1,9 +1,10 @@
 export class User {
-    constructor(name, lastName, username, pass) {
+    constructor(name, lastName, username, pass, salt) {
         this.name = name
         this.lastName = lastName
-        this.user = username
+        this.username = username
         this.pass = pass
+        this.salt = salt
     }
 
 }

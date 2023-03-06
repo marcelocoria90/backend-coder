@@ -4,7 +4,7 @@ import colors from 'colors'
 const userManager = new UserManager('./database/users.json')
 await userManager.reset()
 
-try {
+// try {
     const user = await userManager.addUser({
         name: 'Juan',
         lastName: 'Perez',
@@ -12,7 +12,9 @@ try {
         pass: '123456'
     })
 
+    console.log('Const USER:')
     console.log(user)
+
 
     const loggedUser = await userManager.logIn({
         username: 'jperez',
@@ -20,8 +22,8 @@ try {
     })
 
     console.log(loggedUser)
-} catch (e) {
-    console.log(e.message)
-}
+// } catch (e) {
+//     console.log(e.message)
+// }
 
 console.log(colors.magenta('Fin del programa'))

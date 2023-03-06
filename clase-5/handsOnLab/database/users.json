@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": {
+      "name": "Juan",
+      "lastName": "Perez",
+      "username": "jperez",
+      "pass": "fb5c7d21e63715ea20a6d18f0abcbce6378ccfae1a9a3544f38231ac1ef52af4",
+      "salt": "hQChePeuld8teaM1qOO2tpfx7g3+Zmx6Jslpbhdw8nEJc+eB30+Qs1uiL+pJ8dZB7JtZoT5SLU6YSAhDQ6jxjgYW0QDMQGucp0fAcvbjPitkKBSj9oCjJYmDueDT1S+uYJGTqJOKKcTtGwa0NrGkMbHMRnYDVRwnWj3T6oyoZPE="
+    }
+  }
+]
